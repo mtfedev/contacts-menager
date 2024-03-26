@@ -1,0 +1,23 @@
+Requirements:
+
+1. I want to start my server using the Makefile, with the command:
+“make server”
+2. With the API you will create, I want to be able to:
+  - add new contact
+  - delete one contact
+  - get one contact
+  - get all contacts
+  - modify one contact
+3. Contact should have these fields:
+  - FirstName
+  - LastName
+  - Email
+  - Website
+  - BrandName
+  - Phone
+  - SocialMedia
+    - Facebook
+    - Instagram
+    - Twitter
+    - YouTube
+    - Telegram
